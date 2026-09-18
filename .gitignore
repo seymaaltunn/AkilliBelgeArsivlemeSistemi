@@ -1,0 +1,38 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# Visual Studio kullanıcı dosyaları
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Derleme klasörleri
+Debug/
+Release/
+x64/
+x86/
+
+# NuGet
+packages/
+*.nupkg
+
+# SQLite veritabanı
+*.db
+*.db-shm
+*.db-wal
+
+# Arşivlenen kullanıcı belgeleri
+ArsivBelgeleri/
+
+# Geçici dosyalar ve loglar
+*.tmp
+*.temp
+*.log
+
+# Windows
+Thumbs.db
+Desktop.ini
+.DS_Store
